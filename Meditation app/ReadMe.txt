@@ -16,7 +16,7 @@ Only two themes will be provided at first : Beach and rain. Appropriate sound-tr
 
 A mix of sound , visuals and user option and interactivity for an overall relaxing experience.
 
-Note: Open "index" to run the complete application
+Note: Copy/Download all files then Open "index" to run the complete application
 
 * Special thanks to "developedbyed" on GitHub for a majority of project resources.
 
